@@ -14,8 +14,7 @@ Node.js Online References
 		https://www.udemy.com/course/javascript-essentials/
 	
 	Best JS Tutorials
-		https://www.freecodecamp.org/news/best-javascript-tutorial/
-		
+		https://www.freecodecamp.org/news/best-javascript-tutorial/		
 	
 	Book about JavaScript, programming, and the wonders of the digital. 
 		https://eloquentjavascript.net/
