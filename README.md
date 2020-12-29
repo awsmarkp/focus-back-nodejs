@@ -3,6 +3,7 @@ Node.js Online References
 ------
 
 ■ Pre-requisite Study
+
 	Learn JavaScript - Full Course for Beginners (3.5h)
 		https://www.youtube.com/watch?v=PkZNo7MFNFg
 		
@@ -59,6 +60,7 @@ Node.js Online References
 
 
 ■ Web Tools
+
 	Git and Github
 		https://www.youtube.com/watch?v=RGOj5yH7evk
 
