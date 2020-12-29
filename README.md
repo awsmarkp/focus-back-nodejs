@@ -58,7 +58,7 @@ Node.js Online References
 		https://www.youtube.com/watch?v=QjhJs31h_4k
 
 
-■ Web Tools
+■ Web Tools & Related Tech
 
 	Git and Github
 		https://www.youtube.com/watch?v=RGOj5yH7evk
